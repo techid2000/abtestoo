@@ -17,7 +17,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=5%&space;*&space;4000&space;=&space;200" target="_blank"><img src="https://latex.codecogs.com/svg.latex?5%&space;*&space;4000&space;=&space;200" title="5% * 4000 = 200" /></a>
 
 4. Hamster Inc. once again wants to test the conversion rates between package colors of its sunflower seeds; this time it is Red Package vs Gold Package. The Red Package is the existing group with average conversion rate of 11%. If they think the minimum detectable effect is 1% and want to make a 80/20 control/test split, how many unique users should see each package color before we decide which one performs better? Assume that they are testing at significance level of 15%. Show your work.
-
+From <a href="https://www.codecogs.com/eqnedit.php?latex=n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" title="n = \frac{m+1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" /></a>
 5. Let us say Hamster Inc. ran the experiment and got the following results. 
 
 | campaign_id | clicks | conv_cnt | conv_per |
@@ -28,7 +28,6 @@
 5.1 At significance level of 7%, which variation should be chosen to run at 100% traffic? Show your work.
 
 5.2 What are the confidence intervals at 7% significance of conversion rates for Red and Gold? Show your work.
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 6. Which of the following are true about frequentist A/B tests? (True/False)
 
