@@ -49,6 +49,11 @@ __User B made a purchase in November but not within 7-day from their first visit
 __User C didn't make a purchase in November__\
 __Therefore Conversion rate = 1/3 = 0.33__\
 
+__Cohorot-based:__\
+__User A made a purchase within 7-day from their first visit.__\
+__User B didn't make a purchase within 7-day from their first visit.__\
+__User C made a purchase within 7-day from their first visit.__
+
 
 4. Give 3 examples of values that are usually distributed in the following manner (do not use examples from class):
 
