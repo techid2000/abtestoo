@@ -43,11 +43,11 @@
 | 2020-11-30 | C    | visit    |
 | 2020-12-05 | C    | purchase |
 
-**Event-based:<br/>**
-**- User A made a purchase in November within 7-day from their first visit.
-**- User B made a purchase in November but not within 7-day from their first visit.
-**- User C didn't make a purchase in November
-    Therefore Conversion rate = 1/3 = 0.33
+__Event-based:<br/>__
+__User A made a purchase in November within 7-day from their first visit.<br/>__
+__User B made a purchase in November but not within 7-day from their first visit.<br/>__
+__User C didn't make a purchase in November<br/>__
+__Therefore Conversion rate = 1/3 = 0.33<br/>__
 
 
 4. Give 3 examples of values that are usually distributed in the following manner (do not use examples from class):
