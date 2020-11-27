@@ -24,13 +24,13 @@
 
 2. What are the metrics you should use for the following A/B tests? Assume that the granularities are: page views and unique visitors.
 
-* Which button colors will make customers find it more easily? clicks / __number of cookies of website__
+* Which button colors will make customers find it more easily? clicks / __button clicks throughout website__
 
 * Which sets of products on a landing page will make customers more likely to buy? purchases / __number of cookies of website__
 
 * Which types of promotion coupons will be more effective? purchases / __number of people that purchased coupons__
 
-* Which website layouts will attract more customers to click on sign up button? clicks / __number of cookies of website__
+* Which website layouts will attract more customers to click on sign up button? clicks / __button clicks throughout registration page__
 
 3. Based on the transaction table below, what are the event-based conversion rate and cohort-based conversion rate of 2020-11? Assume 7-day attribution period. Conversion rate is calculated by purchases / unique users.
 
