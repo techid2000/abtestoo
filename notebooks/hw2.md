@@ -17,7 +17,9 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=5%&space;*&space;4000&space;=&space;200" target="_blank"><img src="https://latex.codecogs.com/svg.latex?5%&space;*&space;4000&space;=&space;200" title="5% * 4000 = 200" /></a>
 
 4. Hamster Inc. once again wants to test the conversion rates between package colors of its sunflower seeds; this time it is Red Package vs Gold Package. The Red Package is the existing group with average conversion rate of 11%. If they think the minimum detectable effect is 1% and want to make a 80/20 control/test split, how many unique users should see each package color before we decide which one performs better? Assume that they are testing at significance level of 15%. Show your work.
-From <a href="https://www.codecogs.com/eqnedit.php?latex=n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" title="n = \frac{m+1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}\\&space;\\&space;m&space;=&space;0.25,&space;Z_{0.15}&space;=&space;1.44,&space;MDE&space;=&space;0.01,&space;\mu&space;=&space;0.11\\&space;\\&space;n&space;=&space;\frac{0.25&plus;1}{0.25}(\frac{1.44\times\sigma}{0.01-0.11})^2&space;=&space;1036.8\sigma^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?n&space;=&space;\frac{m&plus;1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}\\&space;\\&space;m&space;=&space;0.25,&space;Z_{0.15}&space;=&space;1.44,&space;MDE&space;=&space;0.01,&space;\mu&space;=&space;0.11\\&space;\\&space;n&space;=&space;\frac{0.25&plus;1}{0.25}(\frac{1.44\times\sigma}{0.01-0.11})^2&space;=&space;1036.8\sigma^2" title="n = \frac{m+1}{m}(\frac{Z_{\alpha}}{MDE-\mu})^{2}\\ \\ m = 0.25, Z_{0.15} = 1.44, MDE = 0.01, \mu = 0.11\\ \\ n = \frac{0.25+1}{0.25}(\frac{1.44\times\sigma}{0.01-0.11})^2 = 1036.8\sigma^2" /></a>
+__
 5. Let us say Hamster Inc. ran the experiment and got the following results. 
 
 | campaign_id | clicks | conv_cnt | conv_per |
