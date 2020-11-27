@@ -2,13 +2,13 @@
 
 1. Which of the following use cases can you reliably conduct an A/B test? (True/False)
 
-* [ ] Frontend person wants to change color of the 'Go' button on a search bar. Will it increase conversion rate?
+* [x] Frontend person wants to change color of the 'Go' button on a search bar. Will it increase conversion rate?
 
 * [ ] The data team created four versions of machine learning model for product recommendations to new users of an app. Which one is the best?
 
 * [ ] Two managers from different factions have Layout A and Layout B for a physical convenience store. Which one should we use?
 
-* [ ] Mr. Rabbito thinks offline stores are the best channel to distribute our products, whereas Ms. Rakko thinks online websites are the way to go. Who is right?
+* [x] Mr. Rabbito thinks offline stores are the best channel to distribute our products, whereas Ms. Rakko thinks online websites are the way to go. Who is right?
 
 * [ ] Your boss wants to add a premium version to your freemium service. Is it a good idea?
 
@@ -18,7 +18,7 @@
 
 * [ ] Your company undergoes a total revamp of its corporate identity. Is it the right call?
 
-* [ ] Elastic ninja at your company wants to show 15 products on the first page of search results instead of 20 products. Should you allow them?
+* [x] Elastic ninja at your company wants to show 15 products on the first page of search results instead of 20 products. Should you allow them?
 
 * [ ] Marketing person wants to know who respond better to our ads campaigns between iOS users and Android users. How to tell?
 
