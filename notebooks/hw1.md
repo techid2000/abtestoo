@@ -58,13 +58,13 @@ __Therefore Conversion rate = 2/3 = 0.67__
 
 4. Give 3 examples of values that are usually distributed in the following manner (do not use examples from class):
 
-* Bernoulli/Binomial distributions: ______, ______, ______
+* Bernoulli/Binomial distributions: __Student pass or fail the exam__, __3 of 10 students pass the exam__, __Player wins 1st round in PUBG for 6 in 10 games__
 
-* Normal/Student t's distribution: ______, ______, ______
+* Normal/Student t's distribution: __IQ__, __Sample mean of any distribution__, __Radius of discovered planets__
 
-* Exponential distribution: ______, ______, ______
+* Exponential distribution: __How long that BTS arrived__, __How long that GRAB deliver food to the dormitory__, __How long that the elevator reach the first floor after press the button__
 
-* Poisson distribution: ______, ______, ______
+* Poisson distribution: __How many times BTS arrived in 1 hour__, __How many times GRAB delivered food to the dormitory in 1 hour__, __How many times the elevator reached the first floor in 1 hour__
 
 5. Which variables should you control for in an A/B test of the following cases?
 
