@@ -14,7 +14,7 @@
 
 3. If we conduct a frequentist statistical test at 5% significance level repeatedly for 4,000 times, how many times can we expect to have statistically significant results even if group A and B are exactly the same?
 
-<img src="https://render.githubusercontent.com/render/math?math=5% * 4000 = 200">
+<a href="https://www.codecogs.com/eqnedit.php?latex=5%&space;*&space;4000&space;=&space;200" target="_blank"><img src="https://latex.codecogs.com/gif.latex?5%&space;*&space;4000&space;=&space;200" title="5% * 4000 = 200" /></a>
 
 4. Hamster Inc. once again wants to test the conversion rates between package colors of its sunflower seeds; this time it is Red Package vs Gold Package. The Red Package is the existing group with average conversion rate of 11%. If they think the minimum detectable effect is 1% and want to make a 80/20 control/test split, how many unique users should see each package color before we decide which one performs better? Assume that they are testing at significance level of 15%. Show your work.
 
